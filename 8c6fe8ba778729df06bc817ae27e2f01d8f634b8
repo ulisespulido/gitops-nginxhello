@@ -1,0 +1,1 @@
+{"jobID":"89787572-2d6f-b326-a539-178673d03db1","spec":{"type":"policy","cause":{"Message":"","User":"Ulises Pulido \u003culises@sawyereffect.com\u003e"},"spec":{"default:deployment/nginxhello":{"add":{"tag.nginxhello":"semver:~1.19.x"},"remove":{}}}},"result":null}
